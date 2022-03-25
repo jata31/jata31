@@ -1,4 +1,4 @@
-Hi, I am Jakob, a passionate .Net developer 
+## Hi, I am Jakob, a passionate .Net developer :wave:
 
 ## Languages, Frameworks, Tools
 
