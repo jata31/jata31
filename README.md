@@ -15,6 +15,10 @@
 <br>
 <br>
 
+## Projects
+
+WIP List of projects
+
 ## Connect with me:
 
 [<img align="left" alt="Xing" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/xing.svg"/>][XING Profil] [XING Profil]
