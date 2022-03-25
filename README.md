@@ -11,3 +11,13 @@ Hi, I am Jakob, a passionate .Net developer
 
 <img align="left" alt="Rider" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rider.svg"/>
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg"/>
+
+<br>
+<br>
+
+## Connect with me:
+
+[<img align="left" alt="Xing" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/xing.svg"/>][xing] [XING Profil]([xing])
+
+
+[xing]:https://www.xing.com/profile/Jakob_Taulin
