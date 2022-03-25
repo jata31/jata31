@@ -17,7 +17,7 @@ Hi, I am Jakob, a passionate .Net developer
 
 ## Connect with me:
 
-[<img align="left" alt="Xing" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/xing.svg"/>][xing] [XING Profil]([xing])
+[<img align="left" alt="Xing" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/xing.svg"/>][XING Profil] [XING Profil]
 
 
-[xing]:https://www.xing.com/profile/Jakob_Taulin
+[XING Profil]:https://www.xing.com/profile/Jakob_Taulin
