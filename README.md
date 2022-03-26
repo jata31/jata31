@@ -37,6 +37,6 @@ WIP List of projects
 
 
 [XING Profil]:https://www.xing.com/profile/Jakob_Taulin
-[BenchmarkDotNet]:https//github.com/dotnet/benchmarkdotnet
-[Automapper]:https//github.com/automapper/automapper
-[FluentValidation]:https//github.com/fluentvalidation/fluentvalidation
+[BenchmarkDotNet]:https://github.com/dotnet/benchmarkdotnet
+[Automapper]:https://github.com/automapper/automapper
+[FluentValidation]:https://github.com/fluentvalidation/fluentvalidation
