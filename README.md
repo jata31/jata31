@@ -15,7 +15,7 @@
 <br>
 <br>
 
-## Frameworks I use
+## Frameworks
 
 [BenchmarkDotNet] <img align="left" alt="BenchmarkDotNet" width="48px" src="https://raw.githubusercontent.com/dotnet/benchmarkdotnet/master/docs/logo/logo.svg"/>
 
