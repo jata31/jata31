@@ -17,10 +17,15 @@
 
 ## Frameworks
 
+
+[Automapper] <img align="left" alt="Automapper" width="26px" src="https://raw.githubusercontent.com/automapper/automapper/master/icon.png"/>
+<br>
+<br>
 [BenchmarkDotNet] <img align="left" alt="BenchmarkDotNet" width="48px" src="https://raw.githubusercontent.com/dotnet/benchmarkdotnet/master/docs/logo/logo.svg"/>
 <br>
 <br>
-[Automapper] <img align="left" alt="Automapper" width="26px" src="https://raw.githubusercontent.com/automapper/automapper/master/icon.png"/>
+[FluentValidation] <img align="left" alt="FluentValidation" width="48px" src="https://raw.githubusercontent.com/fluentvalidation/fluentvalidation/master/logo/fluent-validation-logo.svg"/>
+
 
 ## Projects
 
@@ -34,3 +39,4 @@ WIP List of projects
 [XING Profil]:https://www.xing.com/profile/Jakob_Taulin
 [BenchmarkDotNet]:https//github.com/dotnet/benchmarkdotnet
 [Automapper]:https//github.com/automapper/automapper
+[FluentValidation]:https//github.com/fluentvalidation/fluentvalidation
