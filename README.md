@@ -17,15 +17,23 @@
 
 ## Frameworks
 
+<img align="left" alt="Automapper" width="26px" src="https://raw.githubusercontent.com/automapper/automapper/master/icon.png"/>
+<img align="left" alt="BenchmarkDotNet" width="48px" src="https://raw.githubusercontent.com/dotnet/benchmarkdotnet/master/docs/logo/logo.svg"/>
+<img align="left" alt="FluentValidation" width="48px" src="https://raw.githubusercontent.com/fluentvalidation/fluentvalidation/master/logo/fluent-validation-logo.svg"/>
+<img align="left" alt="Moq" width="26px" src="https://raw.githubusercontent.com/moq/moq4/master/docs/assets/images/moq-icon.png"/>
 
-[Automapper] <img align="left" alt="Automapper" width="26px" src="https://raw.githubusercontent.com/automapper/automapper/master/icon.png"/>
 <br>
 <br>
-[BenchmarkDotNet] <img align="left" alt="BenchmarkDotNet" width="48px" src="https://raw.githubusercontent.com/dotnet/benchmarkdotnet/master/docs/logo/logo.svg"/>
+[Automapper]
 <br>
 <br>
-[FluentValidation] <img align="left" alt="FluentValidation" width="48px" src="https://raw.githubusercontent.com/fluentvalidation/fluentvalidation/master/logo/fluent-validation-logo.svg"/>
-
+[BenchmarkDotNet]
+<br>
+<br>
+[FluentValidation]
+<br>
+<br>
+[Moq]
 
 ## Projects
 
@@ -40,3 +48,4 @@ WIP List of projects
 [BenchmarkDotNet]:https://github.com/dotnet/benchmarkdotnet
 [Automapper]:https://github.com/automapper/automapper
 [FluentValidation]:https://github.com/fluentvalidation/fluentvalidation
+[Moq]:https://github.com/moq/moq4
