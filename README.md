@@ -1,5 +1,9 @@
 ## Hi, I am Jakob, a passionate .Net developer :wave:
 
+## Projects
+
+WIP List of projects
+
 ## Languages, Tools
 
 <img align="left" alt=".Net" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -35,10 +39,6 @@
 [Moq](https://github.com/moq/moq4)
 <br>
 [NUnit](https://github.com/nunit/nunit)
-
-## Projects
-
-WIP List of projects
 
 ## Connect with me:
 
